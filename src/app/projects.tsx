@@ -11,13 +11,13 @@ const PROJECTS = [
     desc: "This is my 1st app ever i made when i begin to learn Coding, its still basic but happy to show where i begin ",
   },
   {
-    img: `${getImagePrefix()}image/blog2.svg`,
-    title: "Landing Page Development",
-    desc: "Promotional landing page for a  fitness website Summer Campaign. Form development included.",
+    img: `${getImagePrefix()}image/tictactoe.png`,
+    title: "TIC TAC TOE Game",
+    desc: "a basic application using HTML,CSS and JavaScript.",
   },
   {
-    img: `${getImagePrefix()}image/blog3.svg`,
-    title: "Mobile App Development",
+    img: `${getImagePrefix()}image/clinicappointment.png`,
+    title: "Clinc Appointment SPA",
     desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
   },
   {
