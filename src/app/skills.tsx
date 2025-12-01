@@ -28,26 +28,14 @@ const SKILLS = [
     icon: SwatchIcon,
     title: "Technology Stack",
     children:
-      "I'm well-versed in the industry's most popular frontend technologies, including HTML5, CSS3, JavaScript, and frameworks like React and React Native.",
+      "I'm well-versed in the industry's most popular frontend technologies, including Python, Java, JavaScript, and frameworks like React and React Native.",
   },
-  {
-    icon: HashtagIcon,
-    title: " Web Optimization",
-    children:
-      "Performance matters. I optimize websites and apps for speed, ensuring your users enjoy a fast and responsive experience, which in turn boosts user satisfaction and SEO rankings.",
-  },
-  {
-    icon: EyeIcon,
-    title: "User-Centric Design",
-    children:
-      "My development goes hand-in-hand with an eye for design. I create user interfaces that are not only functional but also aesthetically pleasing, providing a seamless and enjoyable user journey.",
-  },
-  {
-    icon: DocumentTextIcon,
-    title: "Testing and Quality Assurance",
-    children:
-      "I rigorously test and debug applications to guarantee a bug-free and secure environment for users. Your peace of mind is as important to me as the functionality of your project.",
-  },
+  
+
+// make more if u want
+
+
+
 ];
 
 export function Skills() {

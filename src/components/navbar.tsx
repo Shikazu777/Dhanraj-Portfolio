@@ -28,9 +28,9 @@ const NAV_MENU = [
     href: "https://www.linkedin.com/in/dhanraj-nagarajan-a9b52537b/", // ← your LinkedIn link
   },
   {
-    name: "Mail",
+    name: "iamdhanrajn@gmail.com",
     icon: FaEnvelope,
-    href: "iamdhanrajn@gmail.com",  // ← your mail
+    href: "mailto:iamdhanrajn@gmail.com",  // ← your mail
   },
 ];
 

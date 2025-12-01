@@ -1,6 +1,6 @@
 import { Typography, Button } from "@material-tailwind/react";
 
-const LINKS = ["Home", "About Us", "Blog", "Service"];
+const LINKS = ["ScrollUp", "About Us", "Blog", "Service"];
 const CURRENT_YEAR = new Date().getFullYear();
 
 export function Footer() {
@@ -33,7 +33,7 @@ export function Footer() {
                 </Typography>
               </li>
             ))}
-            <Button color="gray">subscribe</Button>
+            <Button color="gray">Scroll Up</Button>
           </ul>
         </div>
       </div>
