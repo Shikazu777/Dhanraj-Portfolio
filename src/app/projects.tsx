@@ -3,37 +3,44 @@
 import { ProjectCard } from "@/components";
 import { Typography } from "@material-tailwind/react";
 import { getImagePrefix } from "../../utils/utils";
+import { url } from "inspector";
 
 const PROJECTS = [
   {
     img: `${getImagePrefix()}image/pixel.png`,
     title: "Pixel Portfolio Website",
     desc: "A mini rpg style portfolio made with Vite JS inspired by old Pokemon emulator games.",
+    url: "https://dhanraj-pixel-portfolio.vercel.app/",
   },
   {
     img: `${getImagePrefix()}image/clinicappointment.png`,
     title: "Clinc Appointment SPA",
     desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+    url: "https://clinic-appointment-bmmt.vercel.app/",
   },
   {
     img: `${getImagePrefix()}image/tictactoe.png`,
     title: "TIC TAC TOE Game",
     desc: "a basic application using HTML,CSS and JavaScript.",
+    url: "https://prodigy-wd-3-mocha.vercel.app/",
   },
   {
     img: `${getImagePrefix()}image/stopwatch.png`,
     title: "Stopwatch",
     desc: "This is my 1st app ever i made when i begin to learn Coding, its still basic but happy to show where i begin ",
+    url: "",
   },
   {
     img: `${getImagePrefix()}image/blog-1.svg`,
     title: "Mobile App Development",
     desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
+    url: "",
   },
   {
     img: `${getImagePrefix()}image/blog2.svg`,
     title: "Landing Page Development",
     desc: "Promotional landing page for a  fitness website Summer Campaign. Form development included.",
+    url: "",
   },
 
 ];
