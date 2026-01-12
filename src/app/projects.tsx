@@ -35,16 +35,7 @@ const PROJECTS = [
     title: "Landing Page Development",
     desc: "Promotional landing page for a  fitness website Summer Campaign. Form development included.",
   },
-  {
-    img: `${getImagePrefix()}image/blog3.svg`,
-    title: "Mobile App Development",
-    desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
-  },
-  {
-    img: `${getImagePrefix()}image/blog4.svg`,
-    title: "E-commerce development",
-    desc: "Ecommerce website offering  access to the latest and greatest gadgets and accessories.",
-  },
+
 ];
 
 export function Projects() {
