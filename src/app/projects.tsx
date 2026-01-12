@@ -6,14 +6,9 @@ import { getImagePrefix } from "../../utils/utils";
 
 const PROJECTS = [
   {
-    img: `${getImagePrefix()}image/stopwatch.png`,
-    title: "Stopwatch",
-    desc: "This is my 1st app ever i made when i begin to learn Coding, its still basic but happy to show where i begin ",
-  },
-  {
-    img: `${getImagePrefix()}image/tictactoe.png`,
-    title: "TIC TAC TOE Game",
-    desc: "a basic application using HTML,CSS and JavaScript.",
+    img: `${getImagePrefix()}image/pixel.png`,
+    title: "Pixel Portfolio Website",
+    desc: "A mini rpg style portfolio made with Vite JS inspired by old Pokemon emulator games.",
   },
   {
     img: `${getImagePrefix()}image/clinicappointment.png`,
@@ -21,9 +16,14 @@ const PROJECTS = [
     desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
   },
   {
-    img: `${getImagePrefix()}image/blog4.svg`,
-    title: "E-commerce development",
-    desc: "Ecommerce website offering  access to the latest and greatest gadgets and accessories.",
+    img: `${getImagePrefix()}image/tictactoe.png`,
+    title: "TIC TAC TOE Game",
+    desc: "a basic application using HTML,CSS and JavaScript.",
+  },
+  {
+    img: `${getImagePrefix()}image/stopwatch.png`,
+    title: "Stopwatch",
+    desc: "This is my 1st app ever i made when i begin to learn Coding, its still basic but happy to show where i begin ",
   },
   {
     img: `${getImagePrefix()}image/blog-1.svg`,
