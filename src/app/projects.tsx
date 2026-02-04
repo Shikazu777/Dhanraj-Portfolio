@@ -6,6 +6,12 @@ import { getImagePrefix } from "../../utils/utils";
 import { url } from "inspector";
 
 const PROJECTS = [
+    {
+    img: `${getImagePrefix()}image/campus.png`,
+    title: "All in one Campus App for Students",
+    desc: "(work in progress)A comprehensive campus application designed to streamline student activities, including canteen food ordering, trust score value, and event management and also includes admin panel for managing the app efficiently by RBAC.",
+    url: "https://github.com/Shikazu777/campus-app",
+  },
   {
     img: `${getImagePrefix()}image/pixel.png`,
     title: "Pixel Portfolio Website",
@@ -30,12 +36,7 @@ const PROJECTS = [
     desc: "This is my 1st app ever i made when i begin to learn Coding, its still basic but happy to show where i begin ",
     url: "",
   },
-  {
-    img: `${getImagePrefix()}image/blog-1.svg`,
-    title: "Mobile App Development",
-    desc: "Mobile app designed to help users discover and explore local restaurants and cuisines.",
-    url: "",
-  },
+
   {
     img: `${getImagePrefix()}image/blog2.svg`,
     title: "Landing Page Development",
