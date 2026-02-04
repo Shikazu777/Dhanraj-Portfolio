@@ -7,7 +7,7 @@ import { url } from "inspector";
 
 const PROJECTS = [
     {
-    img: `${getImagePrefix()}image/campus.png`,
+    img: `${getImagePrefix()}image/campusapp.png`,
     title: "All in one Campus App for Students",
     desc: "(work in progress)A comprehensive campus application designed to streamline student activities, including canteen food ordering, trust score value, and event management and also includes admin panel for managing the app efficiently by RBAC.",
     url: "https://github.com/Shikazu777/campus-app",
