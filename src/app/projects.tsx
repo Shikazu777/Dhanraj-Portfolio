@@ -9,7 +9,7 @@ const PROJECTS = [
     {
     img: `${getImagePrefix()}image/campusapp.png`,
     title: "All in one Campus App for Students",
-    desc: "(work in progress)A comprehensive campus application designed to streamline student activities, including canteen food ordering, trust score value, and event management and also includes admin panel for managing the app efficiently by RBAC.",
+    desc: "(work in progress)A comprehensive campus application designed to streamline student activities, including canteen food ordering, trust score value, spending analysis using PowerBI and event management and also includes admin panel for managing the app efficiently by RBAC using Python, JS, SQL and MERN Stack.",
     url: "https://github.com/Shikazu777/campus-app",
   },
   {
